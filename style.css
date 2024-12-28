@@ -10,6 +10,10 @@ body {
     color: white;
 }
 
+.mouns {
+    margin-bottom:10px;
+}
+
 .timer {
     display: flex;
     gap: 10px;
